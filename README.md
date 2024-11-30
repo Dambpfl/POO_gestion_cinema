@@ -1,0 +1,1 @@
+Créer un projet orienté objet utilisant l'héritage, qui doit permettre de gérer des films, leurs réalisateurs, acteurs et genres cinématographiques, ainsi que de lister les acteurs par rôle, le casting d'un film, les films par genre, et la filmographie des acteurs et réalisateurs.
